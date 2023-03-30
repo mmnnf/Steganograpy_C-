@@ -1,0 +1,51 @@
+c:\users\nargi\onedrive\documents\visual studio 2010\Projects\Steganography\Steganography\bin\Debug\Steganography.exe
+c:\users\nargi\onedrive\documents\visual studio 2010\Projects\Steganography\Steganography\bin\Debug\Steganography.pdb
+c:\users\nargi\onedrive\documents\visual studio 2010\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.Form1.resources
+c:\users\nargi\onedrive\documents\visual studio 2010\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+c:\users\nargi\onedrive\documents\visual studio 2010\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.Cache
+c:\users\nargi\onedrive\documents\visual studio 2010\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.exe
+c:\users\nargi\onedrive\documents\visual studio 2010\Projects\Steganography\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography - Copy\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography - Copy\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography - Copy\Steganography\bin\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography - Copy\Steganography\bin\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography - Copy\Steganography\obj\x86\Debug\Steganography.Form1.resources
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography - Copy\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography - Copy\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography 3\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography 3\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography 3 trash\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography 3 trash\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography 3 trash\Steganography\bin\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography 3 trash\Steganography\bin\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography 3 trash\Steganography\obj\x86\Debug\Steganography.Form1.resources
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography 3 trash\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography 3 trash\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama\Steganography\bin\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama\Steganography\bin\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama\Steganography\obj\x86\Debug\Steganography.csprojResolveAssemblyReference.cache
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama\Steganography\obj\x86\Debug\Steganography.Form1.resources
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\bin\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\bin\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.csprojResolveAssemblyReference.cache
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.Form1.resources
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\nargi\OneDrive\Documents\Visual Studio 2010\Projects\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\bin\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\bin\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.csprojResolveAssemblyReference.cache
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.Form1.resources
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.pdb

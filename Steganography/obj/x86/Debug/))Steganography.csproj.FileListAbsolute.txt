@@ -1,0 +1,29 @@
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\bin\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\bin\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.Form1.resources
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin - Copy\Steganography\obj\x86\Debug\))Steganography.csproj.GenerateResource.Cache
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin ))\Steganography\bin\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin ))\Steganography\bin\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\Steganography.Form1.resources
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\nargi\OneDrive\Desktop\stego lab\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\))Steganography.csproj.GenerateResource.Cache
+E:\File struktur\✓File struktur\✓C#\••• c# temporary\STEGO\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\Steganography.exe
+E:\File struktur\✓File struktur\✓C#\••• c# temporary\STEGO\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\Steganography.pdb
+E:\File struktur\✓File struktur\✓C#\••• c# temporary\STEGO\Steganography duz - yoxlama optimala yaxin ))\Steganography\bin\Debug\Steganography.exe
+E:\File struktur\✓File struktur\✓C#\••• c# temporary\STEGO\Steganography duz - yoxlama optimala yaxin ))\Steganography\bin\Debug\Steganography.pdb
+E:\File struktur\✓File struktur\✓C#\••• c# temporary\STEGO\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\Steganography.Form1.resources
+E:\File struktur\✓File struktur\✓C#\••• c# temporary\STEGO\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+E:\File struktur\✓File struktur\✓C#\••• c# temporary\STEGO\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\))Steganography.csproj.GenerateResource.Cache
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\))Steganography.csprojResolveAssemblyReference.cache
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\Steganography.Form1.resources
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin ))\Steganography\obj\x86\Debug\))Steganography.csproj.GenerateResource.Cache
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin ))\Steganography\bin\Debug\Steganography.exe
+C:\Users\nargi\OneDrive\Desktop\Steganography duz - yoxlama optimala yaxin ))\Steganography\bin\Debug\Steganography.pdb
